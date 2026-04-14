@@ -1,0 +1,23 @@
+{
+    "directories": {
+        "game": {
+            "appid": 12200,
+            "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Bully Scholarship Edition"
+        },
+        "steam": {
+            "path": "C:\\Program Files (x86)\\Steam"
+        }
+    },
+    "launcher": {
+        "language": "en-US",
+        "log_level": "info",
+        "source": "",
+        "update_channel": "main"
+    },
+    "servers": [],
+    "settings": {
+        "fullscreen": true,
+        "skip_intro": true
+    },
+    "version": "1.0.0"
+}
